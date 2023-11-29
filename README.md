@@ -1,2 +1,11 @@
 # Mean-variance-Calculator
-Calculates the mean and variance
+
+
+### Overview:
+
+In this project, python code is used to calculate the mean, variance and standard deviation.
+
+
+### Libraries:
+
+The main library used here is numpy.
